@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sourav Pandey </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sourav Pandey. </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist | Competitive Coder | Web Developer </h3>
 <h3 align="center">Upcoming SWE Intern <a href="https://www.microsoft.com/en-in">@Microsoft</a></h3>
 <p align="center">
